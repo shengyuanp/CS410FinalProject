@@ -3,6 +3,10 @@
 **Team Pinto Beans**
 # PhysicianSearch 
 
+## Usage
+
+The project is hosted on a remote server and can be accessed from [35.209.9.96](http://35.209.9.96/). In the text box, describe a set of medical symptoms and the application will return a ranked list of Chicago, IL area physicians whose specialties are most likely relevant to the given symptoms.
+
 
 ## Software Components
 
