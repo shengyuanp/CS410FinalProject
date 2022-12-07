@@ -1,11 +1,3 @@
-README.md
-BERT-NER-Jaccard
-database
-documentation
-mayo_scraper
-scrapers
-web
-.gitignore
 CS 410 FA22 Progress Report 2022-11-13.pdf**UIUC MCS Fall 2022: CS410 Final Project** 
 
 **Team Pinto Beans**
